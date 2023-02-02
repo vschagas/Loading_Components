@@ -8,6 +8,14 @@ body {
   background-color: black;
 }
 
+.center {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
 span {
   color: white;
   font-size: 20px;
@@ -37,3 +45,4 @@ span {
     box-shadow: 1px 5px 2px #0456c8;
   }
 }
+
